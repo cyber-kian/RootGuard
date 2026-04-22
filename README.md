@@ -41,3 +41,7 @@ Traditionele antivirus-software (zoals Avast of Defender) is vaak te laat bij ni
 
     Draai RootGuard altijd met root-rechten om volledige proces-inspectie mogelijk te maken:
     sudo rootguard
+
+⚠️ Disclaimer
+
+    RootGuard is ontworpen als een agressief beveiligingsmiddel. Het hanteert een Zero-Trust beleid. Test nieuwe software altijd eerst door deze toe te voegen aan de whitelist in de broncode om "false positives" te voorkomen.
